@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: space-between;
+}
+
+div {
+    padding: 20px;
+    
+}
+
+img {
+    border-radius: 50%;
+}
